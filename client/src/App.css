@@ -1,0 +1,14 @@
+.main-footer {
+  padding-top: 2rem;
+  margin: auto;
+  background-color: #9f2022;
+}
+
+.footer-image {
+  max-width: 20rem;
+  margin: auto;
+}
+
+.footer-list {
+  list-style-type: none;
+}
